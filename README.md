@@ -27,6 +27,11 @@ I'm a Software Developer, Competitive Programmer.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mishrayash123&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishrayash123&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
+
+<details>
+	<summary><b>🧲 GitHub Graph</b></summary>
+	<img src="https://activity-graph.herokuapp.com/graph?username=mishrayash123&theme=minimal" />
+</details>
 <br>
 
 #### Let's get in touch :wink:
