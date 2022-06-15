@@ -29,7 +29,7 @@ I'm a Software Developer, Competitive Programmer.
 </details>
 
 <details>
-	<summary><b>🧲 GitHub Graph</b></summary>
+	<summary><b> GitHub Graph</b></summary>
 	<img src="https://activity-graph.herokuapp.com/graph?username=mishrayash123&theme=minimal" />
 </details>
 <br>
