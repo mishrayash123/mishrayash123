@@ -32,6 +32,7 @@ I'm a Software Developer, Competitive Programmer.
 	<summary><b> GitHub Graph</b></summary>
 	<img src="https://activity-graph.herokuapp.com/graph?username=mishrayash123&theme=minimal" />
 </details>
+<figure><embed src="https://wakatime.com/share/@46185a87-facf-402b-a613-55f892c37078/cb3fb203-be39-41da-9222-fe1d7d40de99.svg"></embed></figure>
 <br>
 
 #### Let's get in touch :wink:
