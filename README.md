@@ -34,8 +34,8 @@ I'm a Software Developer, Competitive Programmer.
 </details>
 <details>
 	<summary><b> Wakatime activity</b></summary>
-	<a href="https://wakatime.com" ><img height="480em" src="https://wakatime.com/share/@46185a87-facf-402b-a613-55f892c37078/b24d28d9-af76-4657-9717-443107ffb0d6.png" /></a>
-	<a href="https://wakatime.com"><img height="480em" src="https://wakatime.com/share/@46185a87-facf-402b-a613-55f892c37078/0108c60e-9422-4630-a775-ca3622cf13be.png" /></a>
+	<a href="https://wakatime.com" ><img height="380em" src="https://wakatime.com/share/@46185a87-facf-402b-a613-55f892c37078/b24d28d9-af76-4657-9717-443107ffb0d6.png" /></a>
+	<a href="https://wakatime.com"><img height="380em" src="https://wakatime.com/share/@46185a87-facf-402b-a613-55f892c37078/0108c60e-9422-4630-a775-ca3622cf13be.png" /></a>
 </details>
 
 <br>
